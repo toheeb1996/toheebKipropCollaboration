@@ -2,7 +2,7 @@ html,
 body {
   min-width: 290px;
   color: #4a67f5;
-  background-color: #6d6a6a;
+  /* background-color: #6d6a6a; */
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
